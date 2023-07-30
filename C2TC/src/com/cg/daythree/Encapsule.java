@@ -1,4 +1,4 @@
-package com.cg.dayfive.encapsulation;
+package com.cg.daythree;
 
 public class Encapsule {
 	private int age;
