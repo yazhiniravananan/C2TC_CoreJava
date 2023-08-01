@@ -1,4 +1,4 @@
-package com.cg.dayfour;
+package com.cg.day4;
 
 public class Accessmethod1 {
 	public String name = "Yazhini";
